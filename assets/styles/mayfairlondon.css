@@ -122,7 +122,18 @@
 /* #foot(footftkxsoham8f) #css starts */
 .footftkxsoham8f h3{    
     margin-left: 15px;
-    color: #3AC162
+    color: #5FCF80
+}
+.footftkxsoham8f .headingT{
+    margin-left: -15px
+}
+.footftkxsoham8f .nav .nav-link{
+    color: #050D13
+}
+
+.nav-link:focus, .nav-link:hover {
+    font-weight: bold;
+    color: #3AC162;
 }
 /* #foot(footftkxsoham8f) #css ends */
 /*****foot*****/
