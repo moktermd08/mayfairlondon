@@ -130,10 +130,12 @@
 .footftkxsoham8f .nav .nav-link{
     color: #050D13
 }
-
-.nav-link:focus, .nav-link:hover {
+.footftkxsoham8f .nav-link:focus, 
+.footftkxsoham8f .nav-link:hover {
     font-weight: bold;
-    color: #3AC162;
+}
+.footftkxsoham8f .fab{
+    color: #050D13
 }
 /* #foot(footftkxsoham8f) #css ends */
 /*****foot*****/
