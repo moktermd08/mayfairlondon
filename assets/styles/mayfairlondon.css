@@ -5,9 +5,27 @@
     color: black
 }
 
-.headerfek1subypzu  .navbar-light .navbar-nav .nav-link:hover{
+.headerfek1subypzu .navbar-light .navbar-nav .nav-item .nav-link:hover{
     color: #3AC162
 }
 
 /* #hectoria(headerfek1subypzu) #css ends  */
 /*****hectoria*****/
+
+/*****craig*****/
+    /* #craig(calltoactionca75l1dtxe0) #css starts  */
+
+    .calltoactionca75l1dtxe0 .btn-light {
+        border: none;
+        font-weight: bold;
+    }
+    .calltoactionca75l1dtxe0 .btn-light:hover {
+        background-color: #5FCF80
+    }
+    .calltoactionca75l1dtxe0 .btn-dark:hover {
+        font-weight: bold;
+        border-color: #343A40;
+        background-color: #343A40
+    }
+    /* #craig(calltoactionca75l1dtxe0) #css ends  */
+/*****craig*****/
