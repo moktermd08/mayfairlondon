@@ -48,13 +48,13 @@ Contact us
 ## Image Preview
 
 
-[Desktop]<a href="https://example.com"><img src="https://i.ibb.co/NmNkN9Y/11.png"></a>
+[Desktop]<a><img src="https://i.ibb.co/NmNkN9Y/11.png"></a>
 
 
 [Mobile]
 
 
-<a href="https://example.com"><img src="https://i.ibb.co/nrszZST/22.png"></a>
+<a><img src="https://i.ibb.co/nrszZST/22.png"></a>
 
 
 ## Live site Preview
