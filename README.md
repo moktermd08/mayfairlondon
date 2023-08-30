@@ -120,11 +120,4 @@ Made with love 🧡 by Moksy Lab
 
 [Sonia Sabherwal](https://www.linkedin.com/in/sonia-sabherwal-28154b45/)
 
-
-
-
-<<<<<<< HEAD
 ## 🙏 Thank you 🙏
-=======
-## 🙏 Thank you 🙏
->>>>>>> bff433d6ecd8c0b2dbe954007188ff9437e3edad
