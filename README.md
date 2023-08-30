@@ -48,25 +48,25 @@ Contact us
 ## Image Preview
 
 
-[Desktop]<a href="https://example.com"><img src="https://i.ibb.co/NmNkN9Y/11.png" alt="Illinois"></a>
+[Desktop]<a href="https://example.com"><img src="https://i.ibb.co/NmNkN9Y/11.png"></a>
 
 
 [Mobile]
 
 
-<a href="https://example.com"><img src="https://i.ibb.co/nrszZST/22.png" alt="Illinois"></a>
+<a href="https://example.com"><img src="https://i.ibb.co/nrszZST/22.png"></a>
 
 
 ## Live site Preview
 
 
-[Illinois](https://moksy.com/templates/illinois/?project_id=16466)
+[May Fair London](https://moksy.com/templates/mayfairlondon/?project_id=21735)
 
 
 
 
 ## Github Preview
-[Illinois](https://moksy-lab.github.io/illinois/)
+[May Fair London](https://moksy-lab.github.io/mayfairlondon/)
 
 
 
@@ -96,7 +96,7 @@ Contact us
 
 
 ## Youtube
-[Facebook](https://www.youtube.com/channel/UCTXQx-lXRoOeGy9b-B0RXMg)
+[Youtube](https://www.youtube.com/channel/UCTXQx-lXRoOeGy9b-B0RXMg)
 
 
 
@@ -119,5 +119,8 @@ Made with love 🧡 by Moksy Lab
 
 
 [Sonia Sabherwal](https://www.linkedin.com/in/sonia-sabherwal-28154b45/)
+
+
+
 
 ## 🙏 Thank you 🙏
