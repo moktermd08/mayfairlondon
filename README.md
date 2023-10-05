@@ -12,7 +12,7 @@ Best free professional e-Learning themes to save you money and time. Our templat
 ## License
 
 
-Moksy is an open source project by [moksy.com](https://moksy.com) that is licensed under [MIT](https://opensource.org/licenses/MIT).
+Moksy is an open-source project by [moksy.com](https://moksy.com) that is licensed under [MIT](https://opensource.org/licenses/MIT).
 moksy.com reserves the right to change the license of future releases.
 
 
@@ -20,7 +20,7 @@ moksy.com reserves the right to change the license of future releases.
 [Buy Us A Beer](https://www.paypal.com/donate/?hosted_button_id=Q279LEZ5BAWBY)
 
 
-All of our developer 🙇🙇🙇 work for the community, and any help would be much appreciated
+All of our developers 🙇🙇🙇 work for the community, and any help would be much appreciated
 
 
 
@@ -101,8 +101,8 @@ Contact us
 
 
 
-## Do you want to contribute ?
-Please just join as contributor
+## Do you want to contribute?
+Please just join as a contributor
 
 
 Made with love 🧡 by Moksy Lab
