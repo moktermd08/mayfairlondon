@@ -47,7 +47,6 @@ All of our team members are working hard to provide the best for the community s
 ## Do You Want To Contribute ?
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/>
 <a href="https://github.com/Moksy-Lab/mayfairlondon">
-<br>
 Please join as a Contributor
 </a>
 
