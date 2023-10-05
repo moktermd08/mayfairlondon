@@ -1,6 +1,6 @@
-## 🔗 Hello Guys , We Are From Team Moksy 👋
+<h2 align="left">🔗 Hello Guys , We Are From Team Moksy 👋</h2> 
 
-## 🔗 What Is Moksy ?
+<h2 align="left">🔗 What Is Moksy ?</h2> 
 Moksy is a website for open source and 💯% Free Professional e-Learning Templates
 
 ## 🔗 What's Our Goal ?
