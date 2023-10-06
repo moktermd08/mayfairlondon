@@ -26,17 +26,13 @@ Provide the best and most free professional e-Learning templates to save you mon
 Moksy is an open-source project by [moksy.com](https://moksy.com) that is licensed under [MIT](https://opensource.org/licenses/MIT).
 moksy.com reserves the right to change the license of future releases.
 
-## Our Core Team Members
-[Mokter Hossain](https://www.linkedin.com/in/mr-mokter/)
 
-[Tajul Islam](https://github.com/627md-Tajul-Islam)
-
-## Liked Our Work ? Buy A Cofee For Motivating Us
+## Enjoyed Our Service? Support Us with a Coffee!
 <a href="https://www.paypal.com/donate/?hosted_button_id=Q279LEZ5BAWBY">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ok" />
 </a>
 
-<br><br>
+<br/>
 
 All of our team members are working hard to provide the best for the community so any help would be much appreciated
 
