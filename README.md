@@ -1,23 +1,24 @@
-## Hello Guys , We Are From Team Moksy 👋
+## Hello  from Moksy 👋
 
-## What Is Moksy ? 
-Moksy is a website for open source and 💯% Free Professional e-Learning Templates
+## What Is Moksy? 
+Moksy is a website for open-source and 💯% Free Professional e-learning Templates for both personal and corporate use. 
 
-## What's Our Goal ?
-Provide the best and free professional e-Learning templates to save you money and time. Our templates are built on top of Bootstrap, providing a range of responsive, reusable, well-documented code.
+## What's Our Goal?
+Provide the best and most free professional e-Learning templates to save you money and time. Our templates are built on top of Bootstrap, providing a range of responsive, reusable, well-documented code.
 
-## What We Use In Our Projects ?
+## What We Use In Our Projects?
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-## Wanna Check The Live Preview Before Downloading ? Check The Link Below 👇🏼
+## Live preview 👇🏼
+### Moksy.com
 [May Fair London](https://moksy.com/templates/mayfairlondon/?project_id=21735)
 
-## Lets Check How it Shows in Github. Check The Link Below 👇🏼
+### Github.com
 [May Fair London](https://moksy-lab.github.io/mayfairlondon/)
 
 ## License
@@ -44,7 +45,7 @@ All of our team members are working hard to provide the best for the community s
     ⭐ Please do not forget to star the repo ⭐
 </a>
 
-## Do You Want To Contribute ?
+## Do You Want To Contribute?
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/>
 <a href="https://github.com/Moksy-Lab/mayfairlondon">
 Please join as a Contributor
