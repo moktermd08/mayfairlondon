@@ -15,6 +15,17 @@ Introducing **May Fair London**, a cutting-edge eLearning template tailored to r
 - **Interactive UI:** Engage your audience effectively.
 - **Optimized Performance:** Fast loading times and lag-free interactions.
 
+## Technologies We Use
+
+- **HTML**: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- **CSS**: [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- **Bootstrap**: [Bootstrap](https://getbootstrap.com/)
+- **JavaScript**: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **XML**: [XML](https://www.w3.org/XML/)
+- **JSON**: [JSON](https://www.json.org/json-en.html)
+
+
+
 ### Tags:
 - #eLearningTemplate
 - #MayFairLondon
