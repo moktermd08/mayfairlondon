@@ -29,7 +29,7 @@ Moksy proudly stands as an open-source initiative by [moksy.com](https://moksy.c
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Us A Coffee" />
 </a>
 
-<br/>
+<br/><br/>
 
 Every team member at Moksy has dedicated themselves to serve the community. Your support fuels our motivation and ensures we can continue to offer these resources for free.
 
